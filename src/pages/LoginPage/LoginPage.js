@@ -25,7 +25,6 @@ const LoginPage = () => {
       setError("Invalid username or password.");
     }
 
-    // setLoading(false);
   };
 
   return (
